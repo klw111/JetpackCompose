@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-systemuicontroller:0.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eff7ad89d810a538c61cd97c1e9a34b8/transformed/jetified-accompanist-systemuicontroller-0.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eff7ad89d810a538c61cd97c1e9a34b8/transformed/jetified-accompanist-systemuicontroller-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eff7ad89d810a538c61cd97c1e9a34b8/transformed/jetified-accompanist-systemuicontroller-0.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-systemuicontroller/0.10.0/55e8c010f5faa87b4ab32765e6f769d48eff6906/accompanist-systemuicontroller-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-systemuicontroller/0.10.0/c92de9447a6f15ccb3278c663cb082ab604b6b1f/accompanist-systemuicontroller-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
